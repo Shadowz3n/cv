@@ -202,6 +202,9 @@ export default {
                 },{
                     name: 'Angular',
                     score: 70,
+                },{
+                    name: 'Rust',
+                    score: 65,
             }]
         },
         languages: [{
