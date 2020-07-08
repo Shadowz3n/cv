@@ -227,17 +227,17 @@ export default {
         flex-direction:column;
         max-width:7cm;
         min-width:7cm;
-        padding:.52cm;
+        padding:.40cm;
 
         section{
-            margin-bottom:1cm;
+            margin-bottom:0.25cm;
 
             h1{
                 font-family:Raleway,sans-serif;
                 font-size:.32cm;
                 font-weight:800;
                 letter-spacing:.02cm;
-                margin:0px 0px .5cm 0px;
+                margin:0px 0px .25cm 0px;
             }
 
             p{
@@ -253,8 +253,8 @@ export default {
 
                 li:not(:last-child){
                     border-bottom:1px solid #d3d4d6;
-                    margin-bottom:.17cm;
-                    padding-bottom:.17cm;
+                    margin-bottom:.02cm;
+                    padding-bottom:.1cm;
 
                     b{
                         margin-right:.1cm;

@@ -30,9 +30,10 @@ export default {
     body{
 
       header{
-        padding:0.5cm 0!important;
+        padding:0.15cm 0!important;
 
         h1{
+          font-weight: bold;
           font-size:.5cm!important;
         }
 
@@ -54,7 +55,7 @@ export default {
               margin-bottom:0.05cm!important;
 
               h1{
-                margin:.5cm 0px .2cm 0px!important;
+                margin:.5cm 0px .05cm 0px!important;
               }
 
               ul{
