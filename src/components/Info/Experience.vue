@@ -103,6 +103,8 @@ export default {
       "MongoDB",
       "WebAssembly",
       "Gatsby",
+      "Github Pages",
+      "Gitlab Pages",
     ],
   }),
 };
