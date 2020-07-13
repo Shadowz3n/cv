@@ -170,6 +170,12 @@ export default {
                     name: 'NodeJs',
                     score: 90,
                 },{
+                    name: 'Vue',
+                    score: 90,
+                },{
+                    name: 'React',
+                    score: 90,
+                },{
                     name: 'Python',
                     score: 85,
                 },{
@@ -191,14 +197,8 @@ export default {
                     name: 'jQuery',
                     score: 95,
                 },{
-                    name: 'Vue',
-                    score: 90,
-                },{
                     name: 'Nativescript',
                     score: 80,
-                },{
-                    name: 'React',
-                    score: 70,
                 },{
                     name: 'Angular',
                     score: 70,
