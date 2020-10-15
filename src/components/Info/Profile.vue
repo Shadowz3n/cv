@@ -118,45 +118,24 @@ export default {
         "skills": 
             {
                 "security": [{
-                    name: 'Sqlmap',
+                    name: 'SQL Injection',
                     score: 98
                 },{
-                    name: 'Metasploit Framework',
+                    name: 'Exploits',
                     score: 98
                 },{
-                    name: 'Bettercap (MITM)',
+                    name: 'Man in the middle',
                     score: 98
                 },{
-                    name: 'Ettercap (MITM)',
-                    score: 98
-                },{
-                    name: 'Airmon-ng',
+                    name: 'Bruteforce',
                     score: 95
                 },{
-                    name: 'THC-Hydra',
-                    score: 95
-                },{
-                    name: 'John the Ripper',
-                    score: 95
-                },{
-                    name: 'WPScan',
+                    name: 'Port scanning',
                     score: 90
                 },{
-                    name: 'Joomscan',
-                    score: 90
-                },{
-                    name: 'Nmap',
-                    score: 90
-                },{
-                    name: 'Burp Suite',
-                    score: 90
-                },{
-                    name: 'OllyDbg',
+                    name: 'Reverse engineering',
                     score: 75
-            },{
-                    name: 'Ghidra',
-                    score: 75
-            }],
+                }],
             "code": [{
                     name: 'PHP',
                     score: 95,

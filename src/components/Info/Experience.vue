@@ -40,6 +40,12 @@ export default {
   data: () => ({
     jobs: [
       {
+        title: "FullStack Developer / Pentester · Vylex",
+        subTitle: "Ago 2020 - Até o momento",
+        description:
+          "Atuando no desenvolvimento, testes de vulnerabilidade e segurança em projetos internos e externos. Desenvolvimento de projetos voltados a segurança.",
+      },
+      {
         title: "FullStack Developer · Purple Cow",
         subTitle: "Jul 2017 - Dez 2019",
         description:
@@ -78,6 +84,7 @@ export default {
       "Cloudflare",
       "Workers",
       "Workers KV",
+      "GraphQL",
       "AWS",
       "Actix",
       "Firebase",
